@@ -119,6 +119,7 @@ body {
 .flowers {
   position: relative;
   transform: scale(0.8);
+  margin-bottom: 50px;
 }
 
 .flower {
