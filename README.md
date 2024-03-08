@@ -5,7 +5,7 @@ Welcome to the repository for our site dedicated to celebrating International Wo
 ## Features
 
 - 💐 Animated flowers that bring the spirit of celebration to life.
-- 💌 A congratulatory message in Russian, celebrating International Women's Day.
+- 💌 A congratulatory message, celebrating International Women's Day.
 - 📱 Responsive design that looks great on all devices.
 
 ## Getting Started
